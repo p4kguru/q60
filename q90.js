@@ -1,3 +1,4 @@
+<script>
 let minutes = 90;
 let seconds = 0;
 let countdown = setInterval(function() {
@@ -53,3 +54,4 @@ function checkAnswers90() {
   "Terima kasih, telah berlatih di website <b>ayoberlatih.com</b><br><img alt='Ayo Berlatih' height='50' width='50' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBXCv7G30VrFft5iABUI4mxXF07A-ZMC-Tx17y5lXNcSypfWvlVkPtwyi5iZN_K38uVQQNTyhpVUqWuuQm84MBjAHKCF4_bj8Q55L6c1kTcku49sYqJ502jD1qv05Q4exsgnmLIrFpEOcZeWDEiLQJj2s9fEgA4P9365Wgtpyk126XY2hilRL8hXBl/s1600/Logo%20Ayo%20Berlatih.png'/><br>Follow Us on:<br><button><a href='https://www.youtube.com/ayoberlatih?sub_confirmation=1'>Youtube</a></button> - <button><a href='https://www.facebook.com/ayoberlatih'>Facebook</a></button></center>";
   
 }
+</script>
